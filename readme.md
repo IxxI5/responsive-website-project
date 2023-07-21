@@ -4,4 +4,4 @@ Author: IxxI5
 
 ## Responsive Website and Web API Access
 
-A website developed with HTML, CSS and Vanilla JavaScript demonstrating responsiveness under different screen media along with accessing a web API.
+A website developed with HTML, CSS and Vanilla JavaScript demonstrating responsiveness under different screen media along with accessing a Web API.
