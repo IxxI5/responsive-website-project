@@ -1,26 +1,7 @@
 # [FFHS CAS Web Fundamentals](https://www.ffhs.ch/en/degree-programmes/continuing-education/cas-web-fundamentals)
 
-Repository von:
+Author: IxxI5
 
-STUD: IxxI5
+## Responsive Website and Web API Access
 
-## Semesterarbeit | Responsive Website and Web API Access
-
-Die Semesterarbeit muss in dem Ordner [./semesterarbeit](semesterarbeit) realisiert werden.
-Eine Grundstruktur zum Trennen von JavaScript und CSS Dateien ist bereits angelegt,
-die HTML Dateien kannst du in das Hauptverzeichnis legen.
-
-Beispielsweise:
-
-```
-...
-semesterarbeit/css/format.css
-semesterarbeit/scripts/app.js
-semesterarbeit/index.html
-semesterarbeit/detailview.html
-...
-```
-
-## Dokumentation und Planung
-
-Wireframes und Beschreibungen zu der Semesterarbeit sind in dem Ordner [./docs](docs) zu hinterlegen.
+A website developed with HTML, CSS and Vanilla JavaScript demonstrating responsiveness under different screen media along with accessing a web API.
